@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://p3-passport.byteacctimg.com/img/user-avatar/8ea3fda504acf0d626a1e99691a61d59~180x180.awebp');
+    background-image:url('../image/avator.awebp');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
