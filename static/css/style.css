@@ -170,11 +170,11 @@ progress::-moz-progress-value {
 }
 
 .weixin{
-    margin-top: 20px;
-    /* background-color: #e0eaf0;    */
+    margin-top: 40px;
+    background-color: #e0eaf0;   
     position: relative;
-    padding-top: 20px;
-    padding-bottom: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     text-align: center;
 }
 
@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    background-image:url('https://p3-passport.byteacctimg.com/img/user-avatar/8ea3fda504acf0d626a1e99691a61d59~180x180.awebp');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    min-height: 1550px;
     background-color: white;
 
 }
